@@ -1,0 +1,24 @@
+{
+  "name": "dx-random-str-msg",
+  "version": "1.0.0",
+  "description": "Ramdom String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XdJoseX/DX-random-str-msg.git"
+  },
+  "keywords": [],
+  "author": "Jose David <chayomatamoros224@yahoo.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XdJoseX/DX-random-str-msg/issues"
+  },
+  "homepage": "https://github.com/XdJoseX/DX-random-str-msg#readme",
+  "bin":{
+"DX-random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
